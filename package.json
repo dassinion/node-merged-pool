@@ -34,7 +34,7 @@
         "url": "https://github.com/dassinion/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing-sd": "*",
+        "unomp-multi-hashing-sd": "https://github.com/dassinion/node-multi-hashing-sd.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
