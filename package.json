@@ -26,7 +26,8 @@
         "vekexasia",
         "TheSeven",
         "sigwo",
-        "infernoman"
+        "infernoman",
+	"dassinion"
     ],
     "main": "lib/index.js",
     "repository": {
