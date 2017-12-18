@@ -15,9 +15,9 @@
         "multipool",
         "multicoin"
     ],
-    "homepage": "https://github.com/dassinion/node-merged-pool",
+    "homepage": "https://github.com/dassinion/node-merged-pool-sd",
     "bugs": {
-        "url": "https://github.com/dassinion/node-merged-pool/issues"
+        "url": "https://github.com/dassinion/node-merged-pool-sd/issues"
     },
     "license": "GPL-2.0",
     "author": "Dmitry Gdn",
@@ -31,7 +31,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dassinion/node-merged-pool.git"
+        "url": "https://github.com/dassinion/node-merged-pool-sd.git"
     },
     "dependencies": {
         "unomp-multi-hashing-sd": "https://github.com/dassinion/node-multi-hashing-sd.git",
