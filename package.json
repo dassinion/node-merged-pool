@@ -1,5 +1,5 @@
 {
-    "name": "merged-pooler",
+    "name": "merged-pooler-sd",
     "version": "1.0.0",
     "description": "High performance Stratum poolserver in Node.js for merged mining",
     "keywords": [
@@ -15,12 +15,12 @@
         "multipool",
         "multicoin"
     ],
-    "homepage": "https://github.com/UNOMP/node-merged-pool",
+    "homepage": "https://github.com/dassinion/node-merged-pool",
     "bugs": {
-        "url": "https://github.com/UNOMP/node-merged-pool/issues"
+        "url": "https://github.com/dassinion/node-merged-pool/issues"
     },
     "license": "GPL-2.0",
-    "author": "Daniel Beal",
+    "author": "Dmitry Gdn",
     "contributors": [
 	"zone117x",
         "vekexasia",
@@ -31,10 +31,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/UNOMP/node-merged-pool.git"
+        "url": "https://github.com/dassinion/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "*",
+        "unomp-multi-hashing-sd": "*",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
