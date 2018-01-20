@@ -39,7 +39,8 @@
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
-        "redis": "*"
+        "redis": "*",
+	"zeromq": "^4.6.0"
     },
     "engines": {
         "node": ">=0.10"
